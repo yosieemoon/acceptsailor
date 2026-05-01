@@ -1,8 +1,8 @@
-script_key="gaHDWLIebQlNlWAzsXOlyTxumsQXKNxS";
+script_key="YWSKTPDTxZWvTAAamXZKSpXGxcVFqqTZ";
 getgenv().AutoTradeConfig = {
     -- Danh sách acc main (display name hoặc username) - hỗ trợ nhiều acc
     MainAccounts = {
-        "DriftOrbitStorm2009",
+        "kkndesapenari33",
         -- thêm acc main ở đây, ví dụ:
         -- "kkndesapenari33",
         -- "soooyoooo09",
